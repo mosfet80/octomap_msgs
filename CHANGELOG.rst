@@ -2,6 +2,11 @@
 Changelog for package octomap_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fix CMake install of headers (`#20 <https://github.com/OctoMap/octomap_msgs/issues/20>`_)
+* Contributors: Tyler Weaver, Wolfgang Merkt
+
 2.0.0 (2020-07-01)
 ------------------
 * Change version to 2.0.0 for ROS2; update maintainer
