@@ -2,8 +2,8 @@
 Changelog for package octomap_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.1 (2024-11-08)
+------------------
 * Fix CMake install of headers (`#20 <https://github.com/OctoMap/octomap_msgs/issues/20>`_)
 * Contributors: Tyler Weaver, Wolfgang Merkt
 
